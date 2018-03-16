@@ -1,0 +1,11 @@
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\bin\Debug\netcoreapp2.0\MSADocumentBuilder.deps.json
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\bin\Debug\netcoreapp2.0\MSADocumentBuilder.runtimeconfig.json
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\bin\Debug\netcoreapp2.0\MSADocumentBuilder.runtimeconfig.dev.json
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\bin\Debug\netcoreapp2.0\MSADocumentBuilder.dll
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\bin\Debug\netcoreapp2.0\MSADocumentBuilder.pdb
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\obj\Debug\netcoreapp2.0\MSADocumentBuilder.csprojResolveAssemblyReference.cache
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\obj\Debug\netcoreapp2.0\MSADocumentBuilder.csproj.CoreCompileInputs.cache
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\obj\Debug\netcoreapp2.0\MSADocumentBuilder.AssemblyInfoInputs.cache
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\obj\Debug\netcoreapp2.0\MSADocumentBuilder.AssemblyInfo.cs
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\obj\Debug\netcoreapp2.0\MSADocumentBuilder.dll
+c:\users\jakmoz01\source\repos\MSADocumentBuilder\MSADocumentBuilder\obj\Debug\netcoreapp2.0\MSADocumentBuilder.pdb
